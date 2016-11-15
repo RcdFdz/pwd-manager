@@ -45,7 +45,7 @@ optional arguments:
 ```
 Command line outputs when keys exist:
 ```
-➜  secrets-manager-3 git:(refactor-class) ✗ ./main.py -h
+➜  secrets-manager-3 git:(master) ✗ ./main.py -h
 usage: main.py [-h] [-i] [-l] [-u identifier] [-p identifier] [-ur identifier]
                [-o identifier] [-a identifier]
                [-ak identifier {"user":"<user>", ...}]
